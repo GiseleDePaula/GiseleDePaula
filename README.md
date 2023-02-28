@@ -4,12 +4,10 @@
 <img src="https://user-images.githubusercontent.com/126036479/220813025-3d497b67-05bc-47eb-ae58-79d00d06ee02.PNG" width="300px" />
 </div>
 
+![Gisele D"Paula GitHub stats](https://github-readme-stats.vercel.app/api?username=GiseleDePaula&show_icons=true&theme=radical)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
+                                     
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
