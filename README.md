@@ -1,4 +1,4 @@
-### 😏Olá! sou a Gisele D'Paula🤜🤛
+### 😏Olá! sou a Gisele De Paula🤜🤛
 
 
 <div aling="center">
