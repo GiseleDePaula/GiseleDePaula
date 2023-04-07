@@ -1,9 +1,7 @@
 ### 😏Olá! sou a Gisele De Paula🤜🤛
 
 
-<div aling="center">
-<img src="https://user-images.githubusercontent.com/126036479/220813025-3d497b67-05bc-47eb-ae58-79d00d06ee02.PNG" width="300px" />
-</div>
+
 
 
 ![GiseleDePaula GitHub stats](https://github-readme-stats.vercel.app/api?username=GiseleDePaula&show_icons=true&theme=radical)
