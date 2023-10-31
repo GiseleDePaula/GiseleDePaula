@@ -8,7 +8,7 @@
 
 ![GiseleDePaula GitHub stats](https://github-readme-stats.vercel.app/api?username=GiseleDePaula&show_icons=true&theme=radical)
 
-
+[Linkedin](www.linkedin.com/in/gisele-de-paula-b0a500269)
 
 
 
