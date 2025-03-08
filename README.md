@@ -12,10 +12,12 @@
       <a href="https://www.linkedin.com/in/gisele-de-paula-b0a500269" target="_blank">
            <img width="48" height="48" src="https://img.icons8.com/cute-clipart/48/linkedin.png" alt="linkedin"/>
       </a>
-      <a href="https://www.instagram.com/giselle_d_paula" target=" _balnk">
+      <a href="https://www.instagram.com/giselle_d_paula" target=" _blank">
            <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
       </a>
-          
+      <a href="https://www.facebook.com/share/12Da9BGnwaY/" target="_blank">
+           <img width="48" height="48" src="https://img.icons8.com/color/48/facebook.png" alt="facebook"/>
+      </a>    
           
 </div> 
 
