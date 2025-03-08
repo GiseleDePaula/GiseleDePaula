@@ -1,6 +1,6 @@
-### 😏Olá! sou a Gisele De Paula🤜🤛
+<h1>Seja Bem Vindo!</h1>
 
-
+<p>Olá! Meu nome é <strong>Gisele de Paula</strong>, trabalho como técnica de informática TI na empresa <a href="https://engemon.com.br/engemon-it-pt/" target="_blank">ENGEMON IT</a> desde julho de 2024 na escala de 12x36, antes de entrar na <strong>ENGEMON</strong> eu trabalhava e, ainda trabalho nos dias de folga, com parceria de outras empresas, que vedem a mão de obra do técnico em campo atendendo <i>SLA</i>. Já estou na área da informática desde 2022. Atualmente eu também estudo HTML5, CSS3, JavaScript, PHP e Python, com o objetivo de ingressar na área da programação. </p>
 
 <div>
       <img width="94" height="94" src="https://img.icons8.com/dusk/94/html-5.png" alt="html-5"/>
