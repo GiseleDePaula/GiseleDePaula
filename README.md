@@ -1,8 +1,13 @@
 ### 😏Olá! sou a Gisele De Paula🤜🤛
 
 
-<div esq="rtl">
-<img src="https://user-images.githubusercontent.com/126135876/230647681-1359b22b-4c09-459f-bcbd-615e3793bab5.png" width="700px" />
+
+<div>
+      <img width="94" height="94" src="https://img.icons8.com/dusk/94/html-5.png" alt="html-5"/>
+      <img width="94" height="94" src="https://img.icons8.com/dusk/94/css3.png" alt="css3"/>
+      <img width="94" height="94" src="https://img.icons8.com/arcade/94/javascript.png" alt="javascript"/>
+      <img width="94" height="94" src="https://img.icons8.com/arcade/94/php.png" alt="php"/>
+      <img width="94" height="94" src="https://img.icons8.com/arcade/94/python.png" alt="python"/>
 </div>
 
 
