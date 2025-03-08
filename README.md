@@ -1,4 +1,4 @@
-<h1>Seja Bem Vindo!</h1>
+<h1><img width="100" src="https://github.com/user-attachments/assets/2e51f3f9-e5ed-4d9a-ac09-4e86b5a35a17"/>Seja Bem Vindo!</h1>
 
 <p>Olá! Meu nome é <strong>Gisele de Paula</strong>, trabalho como técnica de informática TI na empresa <a href="https://engemon.com.br/engemon-it-pt/" target="_blank">ENGEMON IT</a> desde julho de 2024 na escala 12x36, antes de entrar na <strong>ENGEMON</strong>, eu trabalhava e ainda trabalho nos dias de folga, com parceria de outras empresas que vedem a mão de obra do técnico em campo atendendo <i>SLA</i>. Já estou na área da informática desde 2019. Atualmente eu faço aulas de Inglês na <a href="https://www.unitedidiomas.com/" target="_blank">United Idiomas</a> e estudo HTML5, CSS3, JavaScript, PHP e Python, com professor <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara</a> na plataforma do <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a> com o objetivo de ingressar na área da programação. </p>
 
